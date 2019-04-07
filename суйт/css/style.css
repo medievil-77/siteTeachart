@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400);
-
+ 
 body, html{
 	font-family: 'Lato', sans-serif;
 	text-rendering: optimizeLegibility !important;
@@ -179,6 +179,7 @@ ul.about-list li span{
 }
 
 /* Team Section */
+ 
 #tf-team{
 	background: url(../img/03.jpg);
 	background-size: cover;
@@ -275,6 +276,7 @@ img.img-circle.team-img {
 }
 
 /* Services Section */
+ 
 #tf-services{
 	padding: 80px 0;
 }
@@ -331,7 +333,8 @@ img.img-circle.team-img {
     margin: 35px;
     color: #FFF;
     text-align: center;
-}
+} 
+ 
 /* Gallery Section 
 ==============================*/
 #tf-works{
@@ -569,3 +572,4 @@ nav#footer p{
 	background: #FCAC45;
 	border-color: #FCAC45;
 	color: #ffffff;
+	
